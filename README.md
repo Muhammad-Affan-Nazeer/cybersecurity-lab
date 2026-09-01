@@ -1,7 +1,7 @@
 # cybersecurity-lab
 Repository for PF lab (Cybersecurity).
 
-*Name:*/
+*Name:*
 *Student ID:*
 *Program:*
 *Lab Section:*
